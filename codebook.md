@@ -57,4 +57,4 @@ Additionally, the following variables are included in the 561-length feature vec
 * angle([XYZ],gravityMean)  
 
 
-All variables are named specifically as the measurement taken ([XYZ] is simply an indicator of which axis the measurement is taken in).  Note that only Mean and StandardDeviation measurements are shown.  I didn't see the point of most clear explicating the variable names as the variable title is EXACTLY what is being measured.
+All variables are named specifically as the measurement taken ([XYZ] is simply an indicator of which axis the measurement is taken in).  Note that only Mean and StandardDeviation measurements are shown.  I didn't see the point of more clearly explicating the variable names as the variable title is EXACTLY what is being measured.
